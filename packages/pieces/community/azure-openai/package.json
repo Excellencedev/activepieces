@@ -2,6 +2,6 @@
   "name": "@activepieces/piece-azure-openai",
   "version": "0.0.10",
   "dependencies": {
-    "tiktoken": "1.0.11"
+    "tiktoken": "1.0.22"
   }
 }
