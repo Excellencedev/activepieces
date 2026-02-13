@@ -9,7 +9,6 @@ firebase-admin-sdk.json
 dev
 /cache
 logs/
-.env
 
 # SDK Build
 builds
@@ -27,7 +26,6 @@ node_modules
 *.sublime-workspace
 /cache
 # IDE - VSCode
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -62,7 +60,6 @@ activepieces-engine.js
 scratch.md
 
 # environment variables
-.env
 
 .cursor/rules/nx-rules.mdc
 .github/instructions/nx.instructions.md
@@ -72,3 +69,4 @@ scratch.md
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+config.bat
